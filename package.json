@@ -62,7 +62,7 @@
     "nyc": "^13.0.1",
     "proxyquire": "^1.4.0",
     "sinon": "^1.12.2",
-    "standard": "^9.0.2"
+    "standard": "^14.3.1"
   },
   "license": "MIT",
   "optionalDependencies": {
